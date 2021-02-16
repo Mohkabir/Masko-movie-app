@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.scss"],"names":[],"mappings":"AAAA,iBAEI,YAAa","file":"main.d122c54e.chunk.css","sourcesContent":[".Main{\r\n  .jumbotron{\r\n    margin: 2em 0;\r\n  }\r\n}"]}
