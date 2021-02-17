@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Masko-movie-app/static/css/main.d122c54e.chunk.css",
-    "main.js": "/Masko-movie-app/static/js/main.768be180.chunk.js",
-    "main.js.map": "/Masko-movie-app/static/js/main.768be180.chunk.js.map",
+    "main.css": "/Masko-movie-app/static/css/main.5b96893a.chunk.css",
+    "main.js": "/Masko-movie-app/static/js/main.f8772ce1.chunk.js",
+    "main.js.map": "/Masko-movie-app/static/js/main.f8772ce1.chunk.js.map",
     "runtime-main.js": "/Masko-movie-app/static/js/runtime-main.13fc0a61.js",
     "runtime-main.js.map": "/Masko-movie-app/static/js/runtime-main.13fc0a61.js.map",
-    "static/js/2.45fa67a4.chunk.js": "/Masko-movie-app/static/js/2.45fa67a4.chunk.js",
-    "static/js/2.45fa67a4.chunk.js.map": "/Masko-movie-app/static/js/2.45fa67a4.chunk.js.map",
+    "static/js/2.c75a2fa4.chunk.js": "/Masko-movie-app/static/js/2.c75a2fa4.chunk.js",
+    "static/js/2.c75a2fa4.chunk.js.map": "/Masko-movie-app/static/js/2.c75a2fa4.chunk.js.map",
     "index.html": "/Masko-movie-app/index.html",
-    "static/css/main.d122c54e.chunk.css.map": "/Masko-movie-app/static/css/main.d122c54e.chunk.css.map",
-    "static/js/2.45fa67a4.chunk.js.LICENSE.txt": "/Masko-movie-app/static/js/2.45fa67a4.chunk.js.LICENSE.txt"
+    "static/css/main.5b96893a.chunk.css.map": "/Masko-movie-app/static/css/main.5b96893a.chunk.css.map",
+    "static/js/2.c75a2fa4.chunk.js.LICENSE.txt": "/Masko-movie-app/static/js/2.c75a2fa4.chunk.js.LICENSE.txt",
+    "static/media/unsplash1.0ea2b427.jpg": "/Masko-movie-app/static/media/unsplash1.0ea2b427.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.13fc0a61.js",
-    "static/js/2.45fa67a4.chunk.js",
-    "static/css/main.d122c54e.chunk.css",
-    "static/js/main.768be180.chunk.js"
+    "static/js/2.c75a2fa4.chunk.js",
+    "static/css/main.5b96893a.chunk.css",
+    "static/js/main.f8772ce1.chunk.js"
   ]
 }
